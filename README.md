@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Ajay kumar garg engineering college
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: ayusigoyal2840@gmail.com;
+- 📫 How to reach me: ayushigoyal2840@gmail.com;
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushigoyal2840&theme=highcontrast&show_icons=true&count_private=true)
