@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Computer+Science+Engineer+and+web+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Support+Engineer+Intern+II+at+Amazon.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   
