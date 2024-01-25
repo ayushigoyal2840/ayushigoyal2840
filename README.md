@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=DevOps+II+Engineer+Intern+at+Amazon.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Software+Engineer+at+SHL.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ayushi-goel-2b3359191/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-AyushiGoel-blue">  </a> 
 
 #Talking about Personal Stuffs:
-- 🔭 I’m currently studying in Ajay kumar garg engineering college
-- 🌱 I’m currently learning Node.js
+- 🔭 I have completed my Btech from Ajay Kumar Garg Engineering College
+- 🌱 Interned at Amazon as Software Engineer II
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ayushigoyal2840@gmail.com;
 
